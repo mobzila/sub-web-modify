@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
+          "自用均衡后端【vless reality+hy1+hy2】": "https://ueaegibmlwbb.us-east-1.clawcloudrun.com",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
@@ -347,7 +347,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
         },
         backendOptions: [
-          { value: "https://subapi.cmliussss.net" },
+          { value: "https://ueaegibmlwbb.us-east-1.clawcloudrun.com" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
           { value: "https://sub.d1.mk" },
@@ -357,11 +357,11 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "CM规则",
+            label: "自用规则",
             options: [
               {
                 label: "CM_Online 默认版 识别港美地区(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini"
+                value: "https://raw.githubusercontent.com/mobzila/alclash/refs/heads/main/ACL4SSR.ini"
               },
               {
                 label: "CM_Online_MultiCountry 识别港美地区 负载均衡(与Github同步)",
