@@ -360,8 +360,8 @@ export default {
             label: "自用规则",
             options: [
               {
-                label: "CM_Online 默认版 识别港美地区(与Github同步)",
-                value: "https://raw.githubusercontent.com/mobzila/alclash/refs/heads/main/clash-mini-globe.ini"
+                label: "自用规则 默认版 识别港美地区(与Github同步)",
+                value: "https://raw.githubusercontent.com/mobzila/alclash/refs/heads/main/ACL4SSR.ini"
               },
               {
                 label: "CM_Online_MultiCountry 识别港美地区 负载均衡(与Github同步)",
